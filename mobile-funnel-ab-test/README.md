@@ -4,9 +4,9 @@
 
 an analysis of mobile app user behavior focused on funnel conversion and experiment results to assess whether a product change had a measurable impact.
 
-![funnel conversion by stage](./images/funnel-conversion-clean.png)
+<img src="./images/funnel-conversion-clean.png" alt="funnel conversion by stage" width="620">
 
-![users by event stage](./images/stage-user-counts-en.png)
+<img src="./images/experiment-group-balance-en.png" alt="experiment groups are close in size" width="520">
 
 ## business question
 
