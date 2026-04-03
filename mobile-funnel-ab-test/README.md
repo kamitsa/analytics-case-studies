@@ -6,7 +6,7 @@ an analysis of mobile app user behavior focused on funnel conversion and experim
 
 <img src="./images/funnel-conversion-clean.png" alt="funnel conversion by stage" width="620">
 
-<img src="./images/experiment-group-balance-en.png" alt="experiment groups are close in size" width="520">
+<img src="./images/experiment-pvalues-en.png" alt="no event shows a significant experiment effect" width="560">
 
 ## business question
 
