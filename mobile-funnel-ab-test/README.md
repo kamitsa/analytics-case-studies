@@ -4,6 +4,10 @@
 
 an analysis of mobile app user behavior focused on funnel conversion and experiment results to assess whether a product change had a measurable impact.
 
+![funnel conversion by stage](./images/funnel-conversion-clean.png)
+
+![events by date and group](./images/events-by-date.png)
+
 ## business question
 
 where do users drop off in the funnel, and did the tested interface change affect user behavior in a statistically meaningful way?
