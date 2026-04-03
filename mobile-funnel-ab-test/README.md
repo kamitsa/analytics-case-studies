@@ -6,8 +6,6 @@ an analysis of mobile app user behavior focused on funnel conversion and experim
 
 <img src="./images/funnel-conversion-clean.png" alt="funnel conversion by stage" width="620">
 
-<img src="./images/experiment-pvalues-en.png" alt="no event shows a significant experiment effect" width="560">
-
 ## business question
 
 where do users drop off in the funnel, and did the tested interface change affect user behavior in a statistically meaningful way?
