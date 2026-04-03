@@ -12,6 +12,9 @@ identified the platform, genre, and regional patterns most strongly associated w
 ### [mobile funnel and experiment analysis](./mobile-funnel-ab-test/README.md)
 analyzed user behavior and experiment results to evaluate whether a product change had a real effect on conversion.
 
+### [procrastinate pro+ growth analysis](./procrastinate-growth-analysis/README.md)
+investigated why rising ad spend was failing to generate payback by comparing acquisition, retention, and roi across regions and channels.
+
 ## tools
 
 python, sql, pandas, numpy, scipy, matplotlib, seaborn, jupyter notebook
