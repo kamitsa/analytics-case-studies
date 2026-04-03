@@ -4,9 +4,9 @@
 
 an analysis of historical video game sales data aimed at identifying the strongest signals of commercial success across platforms, genres, and regions.
 
-![top platforms in the recent period](./images/recent-platform-sales-en.png)
+<img src="./images/recent-platform-sales-en.png" alt="top platforms in the recent period" width="560">
 
-![regional platform shares](./images/regional-platform-shares-en.png)
+<img src="./images/top-platforms-by-region-en.png" alt="top platforms by region" width="820">
 
 ## business question
 
