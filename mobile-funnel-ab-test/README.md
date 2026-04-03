@@ -6,7 +6,7 @@ an analysis of mobile app user behavior focused on funnel conversion and experim
 
 ![funnel conversion by stage](./images/funnel-conversion-clean.png)
 
-![events by date and group](./images/events-by-date.png)
+![users by event stage](./images/stage-user-counts-en.png)
 
 ## business question
 
